@@ -1,2 +1,0 @@
-# MongoDB
-Mongo DB practice
